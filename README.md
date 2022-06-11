@@ -2,6 +2,8 @@
 
 built with HTML5,CSS3 and JAVASCRIPT thru project at Frontend Developer module at Scrimba.
 
+Live preview: https://michaljakubhoppe.github.io/Interactive-BBQ-page/
+
 covered the following concepts:
 
 -line-height,
